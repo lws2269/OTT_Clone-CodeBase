@@ -1,1 +1,1 @@
-# OTT_Clone-CodeBase
+# 넷플릭스 App을 클론코딩한 앱입니다.
